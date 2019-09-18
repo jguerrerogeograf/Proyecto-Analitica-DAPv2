@@ -13,5 +13,5 @@ Aquí ponemos los análisis descriptivos que realizaremos para obtener el produc
 ## Análisis predictivos
 Aquí ponemos los análisis predictivos que realizaremos para obtener el producto:
 
-## PRODUCTO MÍNIMO VIABLE
+## Producto mínimo viable
 A patir de todo lo que hemos descrito, y con el tiempo que tenemos, que podemos tener para el 10 de octubre
