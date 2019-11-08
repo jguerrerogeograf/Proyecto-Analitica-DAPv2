@@ -1,5 +1,5 @@
-# Proyecto-Analitica-DAPv2
-Este es el repositorio donde se encuentra toda la información relacionada con el desarrollo del ejercicio de analítica a desarrollar en el marco del curso de Analítica Predictiva en Python 2019
+# Proyecto Analitica- Departamento Administrativo de Planeación -(junio-octubre 2019)
+Este es el repositorio donde se encuentra toda la información relacionada con el desarrollo del ejercicio de analítica a  en el marco del curso de Analítica Predictiva en Python II 
 
 ## Identificación del problema
 Aquí ponemos la hipótesis de partida
