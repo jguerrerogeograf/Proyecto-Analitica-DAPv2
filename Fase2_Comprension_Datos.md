@@ -18,7 +18,7 @@ INFORMACIÓN DEL PROYECTO:
 ||Subcategoría||
 ||Total Inversión||
 
-Como se ha añadido la desagregación territorial a la base de datos original, se agregará la capa geográfica de las comunas de Medllin para posteriormente unir las dos bases de datos creando la base de daros espacial del proyecto.
+Como se ha añadido la desagregación territorial a la base de datos original, se agregará la capa geográfica de las comunas de Medellin para posteriormente unirlas creando la base de datos espacial del proyecto.
 
 |NOMBRE |INFORMACION|FUENTE|FORMATO|DESCARGA INFORMACIÓN|
 |-----|-----|-----|-----|-----|
