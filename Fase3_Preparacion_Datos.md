@@ -8,4 +8,4 @@
 ## 2. Cargar base de datos geográfica
 |NOMBRE CAPA|IMAGEN|
 |-----|-----|
-|COMUNAS|![Comunas](https://user-images.githubusercontent.com/45660997/68536027-2b608400-031a-11ea-8659-ae1dbd17342e.PNG)|
+|COMUNAS|![Comunas](https://user-images.githubusercontent.com/45660997/68536108-8cd52280-031b-11ea-8e66-e3eb9d817957.PNG)|
