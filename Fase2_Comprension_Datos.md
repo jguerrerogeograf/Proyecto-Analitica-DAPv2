@@ -1,10 +1,13 @@
 # FASE 2: COMPRENSIÓN DE LOS DATOS
 ## Caracterización de la información alfanumérica:
-A partir de la información  contenida en las bases de datos para el Índice Multidimensional de Calidad de Vida (IMCV) y la Inversión en la ciudad se crea la base de datos para la caracterización del proyecto. Esta base de datos contendrá los siguientes campos: 
+Se crea una base de datos que integra campos tanto del Índice Multidimensional de Calidad de Vida (IMCV) como de la Inversión en la ciudad. 
+Adicionalmente, y para este ejercicio, se ha generado una columna "geográfica" que contiene una serie aleatoria de números entre el 1 y el 16 representando así las comunas de Medellín. 
+
+La base de datos contendrá los siguientes campos: 
 
 INFORMACIÓN DEL PROYECTO:
 
-|NOMBRE |INFORMACION|FUENTE|FORMATO|DESCARGA INFORMACIÓN|
+|Campo |INFORMACION|FUENTE|FORMATO|DESCARGA INFORMACIÓN|
 |-----|-----|-----|-----|-----|
 |Ámbito Estudio|Identificación del sector a analizar|Elaboración propia|Geográfico|x|
 |Barrio|Identificación del (los) barrio (s) que impacta(n) el proyecto|DAP|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/barrio-vereda|
