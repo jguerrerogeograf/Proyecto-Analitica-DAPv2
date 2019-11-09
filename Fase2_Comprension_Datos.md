@@ -17,3 +17,5 @@ INFORMACIÓN DEL PROYECTO:
 ||Categoría||
 ||Subcategoría||
 ||Total Inversión||
+
+Como se ha añadido la desagregación territorial a la base de datos original, se agregará la capa geográfica de las comunas de Medllin para posteriormente unir las dos bases de datos creando la base de daros espacial del proyecto. 
