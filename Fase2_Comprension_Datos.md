@@ -1,7 +1,8 @@
 # FASE 2: COMPRENSIÓN DE LOS DATOS
 ## Caracterización de la información alfanumérica:
 A partir de la información  contenida en las bases de datos para el Índice Multidimensional de Calidad de Vida (IMCV) y la Inversión en la ciudad se crea la base de datos para la caracterización del proyecto. Esta base de datos contendrá los siguientes campos: 
-INFORMACIÓN DEL PROYECTO
+
+INFORMACIÓN DEL PROYECTO:
 
 |NOMBRE |INFORMACION|FUENTE|FORMATO|DESCARGA INFORMACIÓN|
 |-----|-----|-----|-----|-----|
