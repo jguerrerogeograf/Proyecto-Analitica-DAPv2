@@ -7,7 +7,7 @@ La base de datos contendrá los siguientes campos:
 
 INFORMACIÓN DEL PROYECTO:
 
-|IMCV |Inversión municipal|Desagregación Territorial|
+|BBDD IMCV |BBDD Inversión municipal|BBDD Desagregación Territorial|
 |-----|-----|-----|
 |Año|Centro Gestor|Comuna|
 |DIME|Dependencia||
