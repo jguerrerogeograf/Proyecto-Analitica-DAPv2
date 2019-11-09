@@ -18,4 +18,8 @@ INFORMACIÓN DEL PROYECTO:
 ||Subcategoría||
 ||Total Inversión||
 
-Como se ha añadido la desagregación territorial a la base de datos original, se agregará la capa geográfica de las comunas de Medllin para posteriormente unir las dos bases de datos creando la base de daros espacial del proyecto. 
+Como se ha añadido la desagregación territorial a la base de datos original, se agregará la capa geográfica de las comunas de Medllin para posteriormente unir las dos bases de datos creando la base de daros espacial del proyecto.
+
+|NOMBRE |INFORMACION|FUENTE|FORMATO|DESCARGA INFORMACIÓN|
+|-----|-----|-----|-----|-----|
+|Comunas|Identificación de las comunas de Medellín|DAP|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/l%C3%ADmite-comuna-corregimiento|
