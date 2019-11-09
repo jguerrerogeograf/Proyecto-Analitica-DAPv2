@@ -9,11 +9,11 @@ INFORMACIÓN DEL PROYECTO:
 
 |IMCV |Inversión municipal|Desagregación Territorial|
 |-----|-----|-----|
-|Ámbito Estudio|Identificación del sector a analizar|Elaboración propia|Geográfico|x|
-|Barrio|Identificación del (los) barrio (s) que impacta(n) el proyecto|DAP|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/barrio-vereda|
-|Polígono tratamiento|Identificación de los polígonos de tratamiento urbanos que afectan al proyecto|DAP|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/tratamientos|
-|Lotes|Delimitación de los lotes que intervienen en el ámbito de estudio|Catastro|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/lote-del-predio|
-|Línea Metrocable|Delimitación del recorrido del metrocable objeto de estudio|DAP|Geográfico|x|
-|Estación Metrocable|Ubicación de las estaciones del metrocable objeto de estudio|DAP|Geográfico|x|
-
-
+|Año|Centro Gestor|Comuna|
+|DIME|Dependencia||
+||Proyecto||
+||ID Proyecto||
+||Sector||
+||Categoría||
+||Subcategoría||
+||Total Inversión||
