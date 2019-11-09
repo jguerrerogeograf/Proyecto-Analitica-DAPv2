@@ -4,7 +4,7 @@
    ### 1.1 Descripción de la propuesta
 Se propone crear un modelo que determine *la relación entre los recursos que se invierten en la ciudad y la mejora en las dimensiones de calidad de vida.*
    ### 1.2 Identificación del problema
-Descubrir la relación que en los últimos 10 años ha existido entre la ejecución de recursos de inversión, a nivel de ciudad, con la dimenión de escolaridad de la encuesta de calidad de vida, identificando las eficiencias que mejoren la toma de decisiones.
+Descubrir la relación que en los últimos 10 años ha existido entre la ejecución de recursos de inversión, a nivel de ciudad y/o comuna, con la dimenión de escolaridad de la encuesta de calidad de vida, identificando las eficiencias que mejoren la toma de decisiones.
    ### 1.3 Hipótesis de partida
  ¿Ha existido relación en los proyectos de inversión en educación y educación superior por parte de las diferentes dependencias en los últimos 10 años y la mejora de la dimensión de escolaridad en la ciudad de Medellín?
    #### 1.3.1 Hipotesis de partida desde la analítica descriptiva
