@@ -19,4 +19,4 @@ Encontrar los modelos que permitan validar o refutar la hipótesis de partida.
 Encontrar el factor de ponderación que permita modelar el incremento en la dimensión de calidad de vida a partir de la inversión ejecutada en los últimos 10 en la ciudad.
 ### 2.3 Herramientas a "plantear"
 * Herramientas de analítica descriptiva: modelo de regresión lineal para ver como se comporta el Índice en función del proyecto de inversión.
-* Herramientas de analítica predictiva
+* Herramientas de analítica predictiva.
