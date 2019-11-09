@@ -29,22 +29,3 @@ Evaluar el modelo, teniendo en cuenta el cumplimiento de los criterios de éxito
 ### Fase 6: Implantación
 
 Una vez que el modelo ha sido construido y validado, se transforma el conocimiento obtenido en acciones dentro del proceso de negocio,  ya sea que el analista recomiende acciones basadas en la observación del modelo y sus resultados, ya sea aplicando el modelo a diferentes conjuntos de datos o como parte del proceso
-
-
-
-
-
-## Identificación del problema
-Aquí ponemos la hipótesis de partida
-
-## Datos disponibles 
-Aquí ponemos los datos que seleccionaremos que utilizaremos
-
-## Análisis descriptivos
-Aquí ponemos los análisis descriptivos que realizaremos para obtener el producto:
-
-## Análisis predictivos
-Aquí ponemos los análisis predictivos que realizaremos para obtener el producto:
-
-## Producto mínimo viable
-A patir de todo lo que hemos descrito, y con el tiempo que tenemos, que podemos tener para el 10 de octubre
