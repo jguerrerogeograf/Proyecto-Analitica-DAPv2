@@ -4,7 +4,7 @@
 Se propone crear un modelo que determine *la relación entre los recursos que se invierten en la ciudad y la mejora en las dimensiones de calidad de vida.*
 
 ## 2. IDENTIFICACIÓN DEL PROBLEMA
-Descubrir la relación que en los últimos 10 años ha existido entre la ejecución de recursos de inversión, en la ciudad, con la dimenión de escolaridad de la encuesta de calidad de vida, identificando las eficiencias que mejoren la toma de decisiones.
+Descubrir la relación que en los últimos 10 años ha existido entre la ejecución de recursos de inversión, a nivel de ciudad, con la dimenión de escolaridad de la encuesta de calidad de vida, identificando las eficiencias que mejoren la toma de decisiones.
 
 ## 3. HIPÓTESIS DE PARTIDA
  ¿Ha existido relación en los proyectos de inversión en educación y educación superior por parte de las diferentes dependencias en los últimos 10 años y la mejora de la dimensión de escolaridad en la ciudad de Medellín?
