@@ -1,5 +1,6 @@
-# Proyecto Analitica- Departamento Administrativo de Planeación -(junio-octubre 2019)
-Este es el repositorio donde se encuentra toda la información relacionada con el desarrollo del ejercicio de analítica a  en el marco del curso de Analítica Predictiva en Python II 
+# Proyecto Analitica Predictiva en Python II (junio-octubre 2019)
+## Departamento Administrativo de Planeación 
+Este es el repositorio donde se encuentra toda la información relacionada con el ejercicio de analítica en el marco del curso de Analítica Predictiva
 
 ## Identificación del problema
 Aquí ponemos la hipótesis de partida
