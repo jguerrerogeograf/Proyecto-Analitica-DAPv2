@@ -8,7 +8,7 @@
 ## 2. Cargar base de datos geográfica
 |NOMBRE CAPA|IMAGEN|
 |-----|-----|
-|COMUNAS|![Comunas](https://user-images.githubusercontent.com/45660997/68536108-8cd52280-031b-11ea-8e66-e3eb9d817957.PNG)|
+|COMUNAS|![Comunas](https://user-images.githubusercontent.com/45660997/68536887-230f4580-0328-11ea-84bf-ed216e9de22a.PNG)|
 
 ## 3. Crear y cargar la base de datos de Proyectos por Comunas
 |NOMBRE CAPA|IMAGEN|
