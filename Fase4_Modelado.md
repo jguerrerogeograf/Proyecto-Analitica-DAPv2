@@ -4,9 +4,8 @@ A partir de la obtención de la base de datos del proyecto realizaremos un conju
 
 ## 4.1.Datos geográficos a nivel de comuna
 ### 4.1.1 Clasifiación de los datos
-#### 4.1.1.1.1. Distribución de atributos (a-espacial)
-Visualización de la distribución de la inversión en proyectos de educación entre las coumas de Medellín
-
+#### 4.1.1.1.1. Distribución de atributos
+visualizar la distribución estadística de la inversión en proyectos de educación entre las coumas de Medellín
 
 
 
