@@ -13,4 +13,5 @@
 ## 3. Crear y cargar la base de datos de Proyectos por Comunas
 |NOMBRE CAPA|IMAGEN|
 |-----|-----|
-|PROYECTOS POR COMUNAS|![Comunas2](https://user-images.githubusercontent.com/45660997/68536984-52bf4d00-032a-11ea-8830-9e002bc1a6ad.PNG)|
+|PROYECTOS POR COMUNAS|
+![Comunas2](https://user-images.githubusercontent.com/45660997/68537517-69b66d00-0333-11ea-9024-1b96a5d01482.PNG)|
