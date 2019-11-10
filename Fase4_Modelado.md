@@ -9,7 +9,7 @@ visualizar la distribución estadística de la inversión en proyectos de educac
 
 |Imagen Num.|Imagen|Análisis datos|
 |-------|-------|-------|
-|1|![Figura1](https://user-images.githubusercontent.com/45660997/68547769-6367d580-03b3-11ea-9d7f-ffcea615effe.PNG)|Los datos muestran el peso que tienen los proyectos sin asignación presupuestal para el periodo de 10 años analizado|
+|1|![Figura1](https://user-images.githubusercontent.com/45660997/68547769-6367d580-03b3-11ea-9d7f-ffcea615effe.PNG)|Los datos muestran el peso que tienen los proyectos sin asignación presupuestal para el periodo de tiempo analizado y como la mayor parte de la inverón en programas no supera los 100.000 millones de pesos
 
 
 ## 4.2 Datos alfanuméricos a nivel de ciudad
