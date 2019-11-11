@@ -15,8 +15,7 @@ visualizar la distribución estadística de la inversión en proyectos de educac
 Visualizar como se distribuye la inversión(en millones de pesos)en materia de Educación por los años de estudio y por las comunas de Medellín.
 |Imagen Num.|Imagen|Análisis datos|
 |-------|-------|-------|
-
-|2|![Figura2](https://user-images.githubusercontent.com/45660997/68556835-d435de80-0401-11ea-92b7-4c27117b1b75.PNG)|Sin ninún método de clasificación. *Para visualizar la gráfica haga clic en la imagen*
+|2|![Figura2](https://user-images.githubusercontent.com/45660997/68556835-d435de80-0401-11ea-92b7-4c27117b1b75.PNG)|Sin ningún método de clasificación. *Para visualizar la gráfica haga clic en la imagen*|
 
 |3|![Figura3](https://user-images.githubusercontent.com/45660997/68556839-d6983880-0401-11ea-8f91-062f528dcc10.PNG)|Aplicando la distribución por cuantiles *Para visualizar la gráfica haga clic en la imagen*
 
