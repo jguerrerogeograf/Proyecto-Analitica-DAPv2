@@ -11,6 +11,15 @@ visualizar la distribución estadística de la inversión en proyectos de educac
 |-------|-------|-------|
 |1|![Figura1](https://user-images.githubusercontent.com/45660997/68547769-6367d580-03b3-11ea-9d7f-ffcea615effe.PNG)|Los datos muestran el peso que tienen los proyectos sin asignación presupuestal para el periodo de tiempo analizado y como la mayor parte de la inverón en programas no supera los 50.000 millones de pesos. *Para visualizar la gráfica haga clic en la imagen* 
 
+#### 4.1.1.1.2. Distribución espacial
+Visualizar como se distribuye la inversión(en millones de pesos)en materia de Educación por los años de estudio y por las comunas de Medellín.
+|Imagen Num.|Imagen|Análisis datos|
+|-------|-------|-------|
+|2|![Figura1](https://user-images.githubusercontent.com/45660997/68547769-6367d580-03b3-11ea-9d7f-ffcea615effe.PNG)|Sin ninún método de clasificación. *Para visualizar la gráfica haga clic en la imagen*
 
+|3|![Figura1](https://user-images.githubusercontent.com/45660997/68547769-6367d580-03b3-11ea-9d7f-ffcea615effe.PNG)|Aplicando la distribución por cuantiles *Para visualizar la gráfica haga clic en la imagen*
+
+|3|![Figura1](https://user-images.githubusercontent.com/45660997/68547769-6367d580-03b3-11ea-9d7f-ffcea615effe.PNG)|Comparando tres métodos de distribución de los valores: a) distribución por cuantiles, b) intervalos iguales y c) distribucón de Fisher *Para visualizar la gráfica haga clic en la imagen*
 
 ## 4.2 Datos alfanuméricos a nivel de ciudad
+
