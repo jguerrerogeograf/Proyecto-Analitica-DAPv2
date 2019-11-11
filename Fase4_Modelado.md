@@ -6,7 +6,7 @@ A partir de la obtención de la base de datos del proyecto realizaremos un conju
 |Imagen num.|Imagen|Análisis datos|
 |-------|-------|-------|
 |1.1|![imagen](https://user-images.githubusercontent.com/45660997/68557427-bd908700-0403-11ea-813c-646e94334bfc.png)|Relación entre la inversión total por año, a nivel de ciudad, y el resultado de la dimensión de Escolaridad en el IMCV. Los separadores corresponden a los periodos de cambio de administración. *Para visualizar la gráfica haga clic en la imagen*|
-|1.2|![Figura00](https://user-images.githubusercontent.com/45660997/68557921-5673d200-0405-11ea-9dbd-29ccc9247b85.PNG)|Relación entre la inversión total por año, a nivel de ciudad, y el resultado de la dimensión de Escolaridad en el IMCV. Los separadores corresponden a los periodos de cambio de administración. *Para visualizar la gráfica haga clic en la imagen*|
+|1.2|![Figura00](https://user-images.githubusercontent.com/45660997/68557921-5673d200-0405-11ea-9dbd-29ccc9247b85.PNG)|Inversión y Porcentaje de inversión por categoría y año (agrupado de mayor a menor a partir del 2010) *Para visualizar la gráfica haga clic en la imagen*|
 
 ## 4.2.Datos geográficos a nivel de comuna
 ### 4.2.1 Clasifiación de los datos
