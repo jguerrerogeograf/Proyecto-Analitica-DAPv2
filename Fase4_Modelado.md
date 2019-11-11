@@ -24,7 +24,7 @@ Visualizar como se distribuye la inversión(en millones de pesos)en materia de E
 |-------|-------|-------|
 |2.2|![Figura2](https://user-images.githubusercontent.com/45660997/68556835-d435de80-0401-11ea-92b7-4c27117b1b75.PNG)|Sin ningún método de clasificación. *Para visualizar la gráfica haga clic en la imagen*|
 |2.3|![Figura3](https://user-images.githubusercontent.com/45660997/68556839-d6983880-0401-11ea-8f91-062f528dcc10.PNG)|Aplicando la distribución por cuantiles *Para visualizar la gráfica haga clic en la imagen*
-|2.4|![Figura4](https://user-images.githubusercontent.com/45660997/68556843-d8fa9280-0401-11ea-9d48-2775d4552111.PNG)|Comparando tres métodos de distribución de los valores: a) distribución por cuantiles, b) intervalos iguales y c) distribucón de Fisher *Para visualizar la gráfica haga clic en la imagen*
+|2.4|![Figura4](https://user-images.githubusercontent.com/45660997/68584670-3e747080-044e-11ea-9f69-8556fa7bca10.PNG)|Comparando tres métodos de distribución de los valores: a) distribución por cuantiles, b) intervalos iguales y c) distribucón de Fisher *Para visualizar la gráfica haga clic en la imagen*
 
 
 
