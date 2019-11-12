@@ -29,3 +29,7 @@ Evaluar el modelo, teniendo en cuenta el cumplimiento de los criterios de éxito
 ### Fase 6: Implantación
 
 Una vez que el modelo ha sido construido y validado, se transforma el conocimiento obtenido en acciones dentro del proceso de negocio,  ya sea que el analista recomiende acciones basadas en la observación del modelo y sus resultados, ya sea aplicando el modelo a diferentes conjuntos de datos o como parte del proceso
+
+### Fase 7: Conclusiones y/o recomendaciones
+Los registros de la inversión pública requieren estar discriminados a nivel de comuna para todos los años del registro histórico, lo cual permitiría tener una cantidad de datos superior, incrementando la precisión del modelo predictivo al tener más datos para la fase de entrenamiento y prueba.
+No todas las inversiones están destinadas a resultados que se logran vislumbrar a corto plazo, es decir en su mismo año,  y no se cuenta con una relación de cuánto tiempo se lleva la inversión en afectar cada dimensión, razón por la cual la analítica descriptiva sería insuficiente para para lograr ubicar conjuntos de datos que identifiquen puntos de inflexión en la efectividad de la misma, evaluada. 
